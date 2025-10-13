@@ -1,0 +1,41 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #fff9fb;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 1rem 0;
+  background-color: #ffd6e0;
+}
+
+.logo {
+  width: 80px;
+  border-radius: 50%;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #444;
+  font-weight: 600;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #ffe5ec;
+  margin-top: 2rem;
+}
